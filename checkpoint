@@ -1,0 +1,6 @@
+model_checkpoint_path: "TrafficSign-199"
+all_model_checkpoint_paths: "TrafficSign-195"
+all_model_checkpoint_paths: "TrafficSign-196"
+all_model_checkpoint_paths: "TrafficSign-197"
+all_model_checkpoint_paths: "TrafficSign-198"
+all_model_checkpoint_paths: "TrafficSign-199"
