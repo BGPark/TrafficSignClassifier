@@ -45,6 +45,13 @@ dropout|
 dense | 400x43
 softmax| 
 
+# Model Training
+Here is final configuration for training.
+* EPOCHS = 200
+* BATCH_SIZE = 128
+* Adam Optimizer with learning rate : 0.001
+* Hyper parameter Initilizer : mu=0, sigma=0.1
+
 ## German traffic sign Performance
 Dataset | Accuracy
 ----------------|-----------------
